@@ -38,6 +38,14 @@ Aim for **decisive, editorial fintech**: calm surfaces, one high-chroma accent u
 - Type: a tight grotesk for display numerals and titles (Inter Tight or Geist), the system font (SF Pro / Roboto) for body, and a monospaced face for money and percentages so columns of numbers align.
 - Card art: **abstract**. Flat gradient or duotone fields with subtle grain, a small network glyph (Visa, Mastercard, Amex, Discover) rendered as a neutral monogram, and the card's nickname in text. Never reproduce issuer logos, real card artwork, or trademarks. The user picks a colour for each card from a palette of 8; the design must look good with any combination of those 8 side by side.
 - Iconography: a single stroke-weight icon set, 24 pt grid, filled variants for selected tab and chip states. Deliver as SVG.
+  Required icon inventory (prefix every file `icon-`; add a `-filled` variant where marked):
+  tabs `ask`, `wallet`, `perks`, `activity` (all with filled);
+  categories `dining`, `groceries`, `gas`, `online`, `travel`, `drugstore`, `warehouse`, `streaming`, `transit`, `everything` (all with filled);
+  reason chips `earn`, `offer`, `credit`, `sub`, `protection`, `warning`, `constraint`, `cap`, `globe`, `tie`;
+  status `excluded`, `frozen`, `offline`, `activate`, `info`, `cash`;
+  utility `search`, `mic`, `location`, `clock`, `chevron-left`, `chevron-right`, `chevron-down`, `chevron-up`, `close`, `check`, `plus`, `minus`, `more`, `edit`, `trash`, `external`, `share`, `flag`, `avatar`, `reorder`, `refresh`, `bell`, `calendar`, `sparkline`, `widget`;
+  network monograms `network-visa`, `network-mastercard`, `network-amex`, `network-discover` as neutral letterforms in a rounded square, no brand colours.
+  Ship a `NAMING.md` listing every file.
 - Motion: the moment the winning card appears should feel decisive (a short settle, not a flourish). Nothing bounces. Durations 120/200/320 ms, one spring for sheets.
 
 Also produce one alternative mood board (a single screen only) in a warmer, softer direction so the team can compare, then build the full kit on the primary direction.

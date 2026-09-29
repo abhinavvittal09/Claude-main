@@ -1,0 +1,256 @@
+{
+  "grid": 24,
+  "strokeWidth": 1.75,
+  "color": "currentColor",
+  "filledTint": 0.22,
+  "source": "Claude Design kit, pickcard-icons.zip",
+  "count": 40,
+  "icons": [
+    {
+      "name": "activate",
+      "group": "status",
+      "file": "icon-activate.svg",
+      "filled": null
+    },
+    {
+      "name": "activity",
+      "group": "tab",
+      "file": "icon-activity.svg",
+      "filled": "icon-activity-filled.svg",
+      "notes": [
+        "Redrawn as rounded rects so the tint fill has an area; original was open lines only."
+      ]
+    },
+    {
+      "name": "ask",
+      "group": "tab",
+      "file": "icon-ask.svg",
+      "filled": "icon-ask-filled.svg"
+    },
+    {
+      "name": "avatar",
+      "group": "ui",
+      "file": "icon-avatar.svg",
+      "filled": null
+    },
+    {
+      "name": "bell",
+      "group": "ui",
+      "file": "icon-bell.svg",
+      "filled": null
+    },
+    {
+      "name": "calendar",
+      "group": "ui",
+      "file": "icon-calendar.svg",
+      "filled": null
+    },
+    {
+      "name": "check",
+      "group": "ui",
+      "file": "icon-check.svg",
+      "filled": null
+    },
+    {
+      "name": "chevron-left",
+      "group": "ui",
+      "file": "icon-chevron-left.svg",
+      "filled": null
+    },
+    {
+      "name": "chevron-right",
+      "group": "ui",
+      "file": "icon-chevron-right.svg",
+      "filled": null
+    },
+    {
+      "name": "close",
+      "group": "ui",
+      "file": "icon-close.svg",
+      "filled": null
+    },
+    {
+      "name": "constraint",
+      "group": "reason",
+      "file": "icon-constraint.svg",
+      "filled": null
+    },
+    {
+      "name": "credit",
+      "group": "reason",
+      "file": "icon-credit.svg",
+      "filled": null
+    },
+    {
+      "name": "dining",
+      "group": "category",
+      "file": "icon-dining.svg",
+      "filled": "icon-dining-filled.svg"
+    },
+    {
+      "name": "drugstore",
+      "group": "category",
+      "file": "icon-drugstore.svg",
+      "filled": "icon-drugstore-filled.svg"
+    },
+    {
+      "name": "earn",
+      "group": "reason",
+      "file": "icon-earn.svg",
+      "filled": null
+    },
+    {
+      "name": "everything",
+      "group": "category",
+      "file": "icon-everything.svg",
+      "filled": "icon-everything-filled.svg",
+      "notes": [
+        "Derived from icon-everything with the set's filled root attributes; not in the delivered zip."
+      ]
+    },
+    {
+      "name": "excluded",
+      "group": "status",
+      "file": "icon-excluded.svg",
+      "filled": null
+    },
+    {
+      "name": "frozen",
+      "group": "status",
+      "file": "icon-frozen.svg",
+      "filled": null
+    },
+    {
+      "name": "gas",
+      "group": "category",
+      "file": "icon-gas.svg",
+      "filled": "icon-gas-filled.svg"
+    },
+    {
+      "name": "groceries",
+      "group": "category",
+      "file": "icon-groceries.svg",
+      "filled": "icon-groceries-filled.svg"
+    },
+    {
+      "name": "info",
+      "group": "status",
+      "file": "icon-info.svg",
+      "filled": null
+    },
+    {
+      "name": "location",
+      "group": "ui",
+      "file": "icon-location.svg",
+      "filled": null
+    },
+    {
+      "name": "mic",
+      "group": "ui",
+      "file": "icon-mic.svg",
+      "filled": null
+    },
+    {
+      "name": "offer",
+      "group": "reason",
+      "file": "icon-offer.svg",
+      "filled": null
+    },
+    {
+      "name": "offline",
+      "group": "status",
+      "file": "icon-offline.svg",
+      "filled": null
+    },
+    {
+      "name": "online",
+      "group": "category",
+      "file": "icon-online.svg",
+      "filled": "icon-online-filled.svg"
+    },
+    {
+      "name": "perks",
+      "group": "tab",
+      "file": "icon-perks.svg",
+      "filled": "icon-perks-filled.svg"
+    },
+    {
+      "name": "plus",
+      "group": "ui",
+      "file": "icon-plus.svg",
+      "filled": null
+    },
+    {
+      "name": "protection",
+      "group": "reason",
+      "file": "icon-protection.svg",
+      "filled": null
+    },
+    {
+      "name": "refresh",
+      "group": "ui",
+      "file": "icon-refresh.svg",
+      "filled": null
+    },
+    {
+      "name": "reorder",
+      "group": "ui",
+      "file": "icon-reorder.svg",
+      "filled": null
+    },
+    {
+      "name": "search",
+      "group": "ui",
+      "file": "icon-search.svg",
+      "filled": null
+    },
+    {
+      "name": "sparkline",
+      "group": "ui",
+      "file": "icon-sparkline.svg",
+      "filled": null
+    },
+    {
+      "name": "streaming",
+      "group": "category",
+      "file": "icon-streaming.svg",
+      "filled": "icon-streaming-filled.svg"
+    },
+    {
+      "name": "sub",
+      "group": "reason",
+      "file": "icon-sub.svg",
+      "filled": null
+    },
+    {
+      "name": "transit",
+      "group": "category",
+      "file": "icon-transit.svg",
+      "filled": "icon-transit-filled.svg"
+    },
+    {
+      "name": "travel",
+      "group": "category",
+      "file": "icon-travel.svg",
+      "filled": "icon-travel-filled.svg"
+    },
+    {
+      "name": "wallet",
+      "group": "tab",
+      "file": "icon-wallet.svg",
+      "filled": "icon-wallet-filled.svg"
+    },
+    {
+      "name": "warehouse",
+      "group": "category",
+      "file": "icon-warehouse.svg",
+      "filled": "icon-warehouse-filled.svg"
+    },
+    {
+      "name": "warning",
+      "group": "reason",
+      "file": "icon-warning.svg",
+      "filled": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+# PickCard icon set
+24x24 grid, 1.75pt stroke, round caps/joins, currentColor. `-filled` variants (tint fill + stroke) are for selected tab and chip states.
+
+- `icon-ask`
+- `icon-ask-filled`
+- `icon-wallet`
+- `icon-wallet-filled`
+- `icon-perks`
+- `icon-perks-filled`
+- `icon-activity`
+- `icon-activity-filled`
+- `icon-dining`
+- `icon-dining-filled`
+- `icon-groceries`
+- `icon-groceries-filled`
+- `icon-gas`
+- `icon-gas-filled`
+- `icon-online`
+- `icon-online-filled`
+- `icon-travel`
+- `icon-travel-filled`
+- `icon-drugstore`
+- `icon-drugstore-filled`
+- `icon-warehouse`
+- `icon-warehouse-filled`
+- `icon-streaming`
+- `icon-streaming-filled`
+- `icon-transit`
+- `icon-transit-filled`
+- `icon-everything`
+- `icon-earn`
+- `icon-offer`
+- `icon-credit`
+- `icon-sub`
+- `icon-protection`
+- `icon-warning`
+- `icon-constraint`
+- `icon-search`
+- `icon-mic`
+- `icon-location`
+- `icon-chevron-right`
+- `icon-chevron-left`
+- `icon-close`
+- `icon-check`
+- `icon-plus`
+- `icon-avatar`
+- `icon-frozen`
+- `icon-reorder`
+- `icon-info`
+- `icon-offline`
+- `icon-refresh`
+- `icon-bell`
+- `icon-calendar`
+- `icon-excluded`
+- `icon-activate`
+- `icon-sparkline`
+- `icon-everything-filled` (added in repo; not in the delivered zip)
