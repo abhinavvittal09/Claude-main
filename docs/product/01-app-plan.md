@@ -111,6 +111,8 @@ Reasons are typed so the UI can render them as chips: `earn`, `offer`, `credit`,
 
 ### 4.6 Worked examples (these double as sample data for design)
 
+Example A is the sign-up-bonus case. Examples B–E assume the Sapphire Preferred bonus has already been met (or the user has marked it "on track"); with the bonus in progress, the weighting makes Sapphire Preferred win all four, which is the intended behaviour. The engine tests in `packages/engine/test/recommend.test.ts` reproduce every number below.
+
 **Example A — Costco warehouse, in-store, $180**
 Cards: Amex Gold, Chase Sapphire Preferred (SUB in progress: $4,000 needed, $1,300 spent, 41 days left), Citi Custom Cash, Capital One Venture X.
 - Amex Gold: **excluded** (Costco warehouses accept Visa only).

@@ -164,7 +164,7 @@ Cards (nickname · network · sample rules):
 
 Merchants for search, recents, and nearby: Costco (Warehouse, Visa-only in store, 0.4 mi), Trader Joe's (Groceries, 0.6 mi), Shell (Gas, 0.2 mi), Uber Eats (Dining), Amazon (Online), Whole Foods (Groceries), Walmart (Discount store, not groceries), Target (Discount store), CVS (Drugstore), Delta (Airline), PayPal (Online).
 
-Three recommendation results to mock exactly:
+Three recommendation results to mock exactly. Result A is the sign-up-bonus case. Results B and C assume the Sapphire Preferred bonus has been met (its bonus ring in the Wallet is a separate state); with the bonus in progress it would win both, which is correct but makes a dull mock.
 
 **Result A — Costco, in store, $180**
 Winner: Sapphire Preferred. ReturnPill: "$83.60 on $180". Chips: `SUB · $2,700 to go, 41 days` · `1x · 2.0%` · `Costco is Visa-only in store`. Runner-up: Venture X, "3.7% · $6.66", delta "−$76.94". Excluded with reason: Amex Gold, Custom Cash, Freedom Flex ("not accepted: Visa only"). Assumptions row: "assumes 2.0¢ per point · Costco coded as Warehouse".
