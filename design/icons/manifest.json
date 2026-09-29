@@ -3,8 +3,16 @@
   "strokeWidth": 1.75,
   "color": "currentColor",
   "filledTint": 0.22,
-  "source": "Claude Design kit, pickcard-icons.zip",
-  "count": 40,
+  "source": "Claude Design kit, drops 1 and 2",
+  "count": 59,
+  "groups": [
+    "tab",
+    "category",
+    "reason",
+    "status",
+    "network",
+    "ui"
+  ],
   "icons": [
     {
       "name": "activate",
@@ -18,7 +26,7 @@
       "file": "icon-activity.svg",
       "filled": "icon-activity-filled.svg",
       "notes": [
-        "Redrawn as rounded rects so the tint fill has an area; original was open lines only."
+        "Filled variant uses rounded-rect bars instead of the outline's line bars, because lines have no area to tint. Designer decision in drop 2."
       ]
     },
     {
@@ -46,9 +54,27 @@
       "filled": null
     },
     {
+      "name": "cap",
+      "group": "reason",
+      "file": "icon-cap.svg",
+      "filled": null
+    },
+    {
+      "name": "cash",
+      "group": "status",
+      "file": "icon-cash.svg",
+      "filled": null
+    },
+    {
       "name": "check",
       "group": "ui",
       "file": "icon-check.svg",
+      "filled": null
+    },
+    {
+      "name": "chevron-down",
+      "group": "ui",
+      "file": "icon-chevron-down.svg",
       "filled": null
     },
     {
@@ -61,6 +87,18 @@
       "name": "chevron-right",
       "group": "ui",
       "file": "icon-chevron-right.svg",
+      "filled": null
+    },
+    {
+      "name": "chevron-up",
+      "group": "ui",
+      "file": "icon-chevron-up.svg",
+      "filled": null
+    },
+    {
+      "name": "clock",
+      "group": "ui",
+      "file": "icon-clock.svg",
       "filled": null
     },
     {
@@ -100,18 +138,33 @@
       "filled": null
     },
     {
+      "name": "edit",
+      "group": "ui",
+      "file": "icon-edit.svg",
+      "filled": null
+    },
+    {
       "name": "everything",
       "group": "category",
       "file": "icon-everything.svg",
-      "filled": "icon-everything-filled.svg",
-      "notes": [
-        "Derived from icon-everything with the set's filled root attributes; not in the delivered zip."
-      ]
+      "filled": "icon-everything-filled.svg"
     },
     {
       "name": "excluded",
       "group": "status",
       "file": "icon-excluded.svg",
+      "filled": null
+    },
+    {
+      "name": "external",
+      "group": "ui",
+      "file": "icon-external.svg",
+      "filled": null
+    },
+    {
+      "name": "flag",
+      "group": "ui",
+      "file": "icon-flag.svg",
       "filled": null
     },
     {
@@ -125,6 +178,12 @@
       "group": "category",
       "file": "icon-gas.svg",
       "filled": "icon-gas-filled.svg"
+    },
+    {
+      "name": "globe",
+      "group": "reason",
+      "file": "icon-globe.svg",
+      "filled": null
     },
     {
       "name": "groceries",
@@ -148,6 +207,42 @@
       "name": "mic",
       "group": "ui",
       "file": "icon-mic.svg",
+      "filled": null
+    },
+    {
+      "name": "minus",
+      "group": "ui",
+      "file": "icon-minus.svg",
+      "filled": null
+    },
+    {
+      "name": "more",
+      "group": "ui",
+      "file": "icon-more.svg",
+      "filled": null
+    },
+    {
+      "name": "network-amex",
+      "group": "network",
+      "file": "icon-network-amex.svg",
+      "filled": null
+    },
+    {
+      "name": "network-discover",
+      "group": "network",
+      "file": "icon-network-discover.svg",
+      "filled": null
+    },
+    {
+      "name": "network-mastercard",
+      "group": "network",
+      "file": "icon-network-mastercard.svg",
+      "filled": null
+    },
+    {
+      "name": "network-visa",
+      "group": "network",
+      "file": "icon-network-visa.svg",
       "filled": null
     },
     {
@@ -205,6 +300,12 @@
       "filled": null
     },
     {
+      "name": "share",
+      "group": "ui",
+      "file": "icon-share.svg",
+      "filled": null
+    },
+    {
       "name": "sparkline",
       "group": "ui",
       "file": "icon-sparkline.svg",
@@ -223,10 +324,22 @@
       "filled": null
     },
     {
+      "name": "tie",
+      "group": "reason",
+      "file": "icon-tie.svg",
+      "filled": null
+    },
+    {
       "name": "transit",
       "group": "category",
       "file": "icon-transit.svg",
       "filled": "icon-transit-filled.svg"
+    },
+    {
+      "name": "trash",
+      "group": "ui",
+      "file": "icon-trash.svg",
+      "filled": null
     },
     {
       "name": "travel",
@@ -250,6 +363,12 @@
       "name": "warning",
       "group": "reason",
       "file": "icon-warning.svg",
+      "filled": null
+    },
+    {
+      "name": "widget",
+      "group": "ui",
+      "file": "icon-widget.svg",
       "filled": null
     }
   ]

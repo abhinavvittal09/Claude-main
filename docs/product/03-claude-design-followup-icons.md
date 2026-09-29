@@ -1,5 +1,7 @@
 # Follow-up prompt for Claude Design — icons the screens still need
 
+> **Status: delivered.** Drop 2 (Sep 28) shipped every icon and fix requested below; see `design/icons/NAMING.md` for the designer's changelog. Kept for the record.
+
 The delivered icon set (`design/icons/`, 40 base icons, 14 with filled variants) covers the tabs, category chips, reason chips and most status glyphs. It is missing the utility icons below, which the screens in the design prompt use. Paste everything under the line into Claude Design in the same project as the first kit.
 
 ---
